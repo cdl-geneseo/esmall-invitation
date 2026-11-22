@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": true,
+        "map_type": "zoomify",
+        "slides": [
+            {   "background": {
+                    "url": "https://cdl-geneseo.github.io/esmall-invitation/images/invitation-challenge.jpg"
+                },
+                "date": "",
+                "location": {
+                    "line": false
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": ""
+                },
+                "text": {
+                    "headline": "Title slide",
+                    "text": "<span style='color: #ffffff;'>This will be the title slide. It will show a zoomed-out version of your image to the left. We can swap in any image we like for the one behind this text. We can also add an image above the text, but that might looked cluttered. A good example to follow is the <a href='https://storymap.knightlab.com/gigapixel/'>one on the StoryMapJS webite.</a></span>"
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 57.70414723434193,
+                    "line": true,
+                    "lon": -100.546875,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "Caption goes here",
+                    "credit": "Attribution goes here",
+                    "url": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/cheat-sheet.jpg"
+                },
+                "text": {
+                    "headline": "First slide",
+                    "text": "This is the first slide. When it loads, the image at left zooms in to a specified location. The text here will describe what's noteworthy about the location we've zoomed to. Each slide can contain a different image above the text, or no image at all."
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 8.059229627200192,
+                    "line": true,
+                    "lon": -65.390625,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": ""
+                },
+                "text": {
+                    "headline": "Second slide",
+                    "text": "When the second slide loads, we move to a new location. The text here will describe what's noteworthy about the new location."
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 59.712097173322924,
+                    "line": true,
+                    "lon": -139.21874999999997,
+                    "zoom": 4
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": ""
+                },
+                "text": {
+                    "headline": "Third slide",
+                    "text": "The third slide zooms to yet another location. Text here will describe what's noteworthy about the new location."
+                }
+            }
+        ],
+        "zoomify": {
+            "attribution": "Beth Small",
+            "height": 3881,
+            "path": "https://cdl-geneseo.github.io/esmall-tiles-two/",
+            "width": 5821
+        }
+    }
+}
